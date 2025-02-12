@@ -1,0 +1,85 @@
+{
+  "hash": "8c74b28f",
+  "configHash": "5ee7234e",
+  "lockfileHash": "75726295",
+  "browserHash": "6120ac8b",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "4666ff37",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "78355407",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "dabfd102",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "2b2720fd",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "4b20bb2b",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "18e04505",
+      "needsInterop": false
+    },
+    "form-validate-angular": {
+      "src": "../../../../../node_modules/form-validate-angular/fesm2022/form-validate-angular.mjs",
+      "file": "form-validate-angular.js",
+      "fileHash": "0593d4de",
+      "needsInterop": false
+    },
+    "jwt-decode": {
+      "src": "../../../../../node_modules/jwt-decode/build/esm/index.js",
+      "file": "jwt-decode.js",
+      "fileHash": "e415d72d",
+      "needsInterop": false
+    },
+    "sweetalert2": {
+      "src": "../../../../../node_modules/sweetalert2/dist/sweetalert2.all.js",
+      "file": "sweetalert2.js",
+      "fileHash": "4d856b62",
+      "needsInterop": true
+    },
+    "tr-currency": {
+      "src": "../../../../../node_modules/tr-currency/fesm2022/tr-currency.mjs",
+      "file": "tr-currency.js",
+      "fileHash": "058ec62b",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-DAO7SJ43": {
+      "file": "chunk-DAO7SJ43.js"
+    },
+    "chunk-DWRD27DP": {
+      "file": "chunk-DWRD27DP.js"
+    },
+    "chunk-4WBH36BR": {
+      "file": "chunk-4WBH36BR.js"
+    },
+    "chunk-XCNJ6FKI": {
+      "file": "chunk-XCNJ6FKI.js"
+    },
+    "chunk-WKYGNSYM": {
+      "file": "chunk-WKYGNSYM.js"
+    }
+  }
+}
